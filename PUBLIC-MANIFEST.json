@@ -1,0 +1,196 @@
+{
+  "version": "0.101.0",
+  "publisher": "Sylvie Abyss",
+  "proposedRepository": "sylvieabyss/abyss-mod-manager",
+  "published": false,
+  "readyToPublish": false,
+  "sourceIncluded": false,
+  "files": [
+    {
+      "area": "repository",
+      "file": ".github/ISSUE_TEMPLATE/bug-report.yml",
+      "bytes": 781,
+      "sha256": "b5234eb8c04b27ab023752965a7eafff0070b9d1c340323ca05b9d2cec1277dd"
+    },
+    {
+      "area": "repository",
+      "file": ".github/ISSUE_TEMPLATE/config.yml",
+      "bytes": 206,
+      "sha256": "5d83f6e577a38c4178bb522620f8ce2b7786c775fabdfd8c1579d0eb47ba39d3"
+    },
+    {
+      "area": "repository",
+      "file": ".gitignore",
+      "bytes": 236,
+      "sha256": "25853fc3c40c26b34176714bc6b05e3fba99b8a3a3041bd675998242db9a200f"
+    },
+    {
+      "area": "repository",
+      "file": "KNOWN-ISSUES.md",
+      "bytes": 1047,
+      "sha256": "3aaab4381fe28823f1ec5e70d6edb396dc78b58a926159bd5b8c737399d2f7fe"
+    },
+    {
+      "area": "repository",
+      "file": "legal/licenses/Electron-LICENSE.txt",
+      "bytes": 1096,
+      "sha256": "5154e165bd6c2cc0cfbcd8916498c7abab0497923bafcd5cb07673fe8480087d"
+    },
+    {
+      "area": "repository",
+      "file": "legal/licenses/LICENSES.chromium.html",
+      "bytes": 5705935,
+      "sha256": "7dac8267ac6da8d959cfe88f5f055b18a397f10230380b5329125e167bf5639b"
+    },
+    {
+      "area": "repository",
+      "file": "legal/licenses/nodable-entities-3.1.0-LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "750cb3fb6362804957ef52caaf9b5c824015be44d494637330d7cd8834d31d40"
+    },
+    {
+      "area": "repository",
+      "file": "legal/licenses/NSIS-COPYING.txt",
+      "bytes": 15488,
+      "sha256": "3c8de989f6504d52f5f8dfafedb6668cd47201f5d01f1319570727c091425dd6"
+    },
+    {
+      "area": "repository",
+      "file": "legal/SBOM.cdx.json",
+      "bytes": 4776,
+      "sha256": "23b73798b6bfadec879926ab097629a1875ab4018ca66a51426484658fc73704"
+    },
+    {
+      "area": "repository",
+      "file": "LICENSE.txt",
+      "bytes": 4550,
+      "sha256": "eacee06a4995153e8682ac683faeae706aa7b154a90e46760d6ad2fa523119c9"
+    },
+    {
+      "area": "repository",
+      "file": "PRIVACY.md",
+      "bytes": 5127,
+      "sha256": "5ed3eb0e51dbcd7e2a284d12570c387b62c78a3140ef8e7d849011045b9f9218"
+    },
+    {
+      "area": "repository",
+      "file": "PUBLIC-RELEASE-GATES.json",
+      "bytes": 1040,
+      "sha256": "dd2f422b3a002bf24a4d57c648813d1bbc3e52ed64811af3c2e1d9185ba5ec2a"
+    },
+    {
+      "area": "repository",
+      "file": "PUBLISHING.md",
+      "bytes": 1556,
+      "sha256": "4b8e7f389cbd41b79dc2ca690335f07cd9bf6d1678860ddf7f142d22e696168b"
+    },
+    {
+      "area": "repository",
+      "file": "README.md",
+      "bytes": 2405,
+      "sha256": "5b2d18cf9a1c8dff6fd3b2bdb81dafb99000a7f7bb9262e4d2066f62ebc52fb2"
+    },
+    {
+      "area": "repository",
+      "file": "RELEASE-DRAFT.md",
+      "bytes": 1400,
+      "sha256": "ae760fdd5c6ab7f547c935352cc8c998cfe0d01c856d83ec2de8eaf67c58a501"
+    },
+    {
+      "area": "repository",
+      "file": "SECURITY.md",
+      "bytes": 712,
+      "sha256": "d93aa0f8149b8c8fce469158470441f014f5d286351d109dcfbf05e3ff7aee7a"
+    },
+    {
+      "area": "repository",
+      "file": "SOURCE-AVAILABILITY.md",
+      "bytes": 2402,
+      "sha256": "de72a345c9716a75cd174f86e32bb4262c8182694762e73a338219bc95fa5b0b"
+    },
+    {
+      "area": "repository",
+      "file": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 21307,
+      "sha256": "e9ddcda20d91e7c887444182675e2e877a850e5f3cbc2eec24a2e3156220c724"
+    },
+    {
+      "area": "assets",
+      "file": "Abyss-Mod-Manager-0.101.0-Setup-x64.exe",
+      "bytes": 113569787,
+      "sha256": "50e576e901ea2f15f58bb43024ffb63776cf003c00f4bfd4dce7ef4d6954d77e"
+    },
+    {
+      "area": "assets",
+      "file": "Abyss-Mod-Manager-0.101.0-Windows-x64.zip",
+      "bytes": 164269191,
+      "sha256": "b708308116913925f8a946b3a719b8709f7f639675d3299955063f35edd35c11"
+    },
+    {
+      "area": "assets",
+      "file": "KNOWN-ISSUES.md",
+      "bytes": 1047,
+      "sha256": "3aaab4381fe28823f1ec5e70d6edb396dc78b58a926159bd5b8c737399d2f7fe"
+    },
+    {
+      "area": "assets",
+      "file": "legal/licenses/Electron-LICENSE.txt",
+      "bytes": 1096,
+      "sha256": "5154e165bd6c2cc0cfbcd8916498c7abab0497923bafcd5cb07673fe8480087d"
+    },
+    {
+      "area": "assets",
+      "file": "legal/licenses/LICENSES.chromium.html",
+      "bytes": 5705935,
+      "sha256": "7dac8267ac6da8d959cfe88f5f055b18a397f10230380b5329125e167bf5639b"
+    },
+    {
+      "area": "assets",
+      "file": "legal/licenses/nodable-entities-3.1.0-LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "750cb3fb6362804957ef52caaf9b5c824015be44d494637330d7cd8834d31d40"
+    },
+    {
+      "area": "assets",
+      "file": "legal/licenses/NSIS-COPYING.txt",
+      "bytes": 15488,
+      "sha256": "3c8de989f6504d52f5f8dfafedb6668cd47201f5d01f1319570727c091425dd6"
+    },
+    {
+      "area": "assets",
+      "file": "legal/SBOM.cdx.json",
+      "bytes": 4776,
+      "sha256": "23b73798b6bfadec879926ab097629a1875ab4018ca66a51426484658fc73704"
+    },
+    {
+      "area": "assets",
+      "file": "LICENSE.txt",
+      "bytes": 4550,
+      "sha256": "eacee06a4995153e8682ac683faeae706aa7b154a90e46760d6ad2fa523119c9"
+    },
+    {
+      "area": "assets",
+      "file": "PRIVACY.md",
+      "bytes": 5127,
+      "sha256": "5ed3eb0e51dbcd7e2a284d12570c387b62c78a3140ef8e7d849011045b9f9218"
+    },
+    {
+      "area": "assets",
+      "file": "RELEASE-DRAFT.md",
+      "bytes": 1400,
+      "sha256": "ae760fdd5c6ab7f547c935352cc8c998cfe0d01c856d83ec2de8eaf67c58a501"
+    },
+    {
+      "area": "assets",
+      "file": "SOURCE-AVAILABILITY.md",
+      "bytes": 2402,
+      "sha256": "de72a345c9716a75cd174f86e32bb4262c8182694762e73a338219bc95fa5b0b"
+    },
+    {
+      "area": "assets",
+      "file": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 21307,
+      "sha256": "e9ddcda20d91e7c887444182675e2e877a850e5f3cbc2eec24a2e3156220c724"
+    }
+  ]
+}

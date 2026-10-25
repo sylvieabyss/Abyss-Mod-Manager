@@ -1,0 +1,29 @@
+Abyss Mod Manager Proprietary Beta License
+Version 1.0 — 24 October 2026
+Publisher: Sylvie Abyss
+
+Copyright (c) 2026 Sylvie Abyss, to the extent rights are held. All rights reserved except as expressly granted below. This license applies only to the publisher's original Abyss Mod Manager application code, documentation and branding. Third-party software, data and assets remain subject to their own terms.
+
+1. Permission to use
+Sylvie Abyss grants you a non-exclusive, worldwide license to download, install, run and make backup copies of officially distributed, unmodified Abyss Mod Manager beta binaries for personal or internal business use, without a license fee. You must have lawful access to the games and content you manage. No source-code license or entitlement to AMM source code is granted. Public documentation may be copied as needed to use the application and submit support reports.
+
+2. Distribution and reserved rights
+You may share links to the official downloads and privately transfer an unchanged official installer or portable archive with all notices intact. Public mirrors, sale, sublicensing, redistribution of modified AMM binaries, or distribution of AMM's private source require the publisher's prior permission, unless applicable law or a third-party license grants the relevant right. You may not remove ownership notices or misrepresent a modified or unofficial build as an official release. No trademark license beyond identifying the software is granted.
+
+3. Third-party rights take priority
+This license does not restrict rights granted by third-party licenses, including permission to use, modify, redistribute or obtain corresponding source for covered components. It does not prohibit reverse engineering needed to debug modifications to an LGPL-covered component, replacement/relinking where required by its license, or conduct protected by mandatory applicable law. Third-party notices and source-access information accompany the distribution. Those component rights do not grant rights to AMM's independent proprietary code. Games, mods, Workshop content and community databases are not licensed by this document.
+
+4. Beta software and user control
+This is prerelease software. Features may be incomplete or change. Keep independent backups of saves, configuration and mod files. Review file operations and Steam actions before confirming them. AMM's backups and checks cannot guarantee recovery or compatibility. You choose which third-party sources, games and content to use and must comply with their terms. No purchase, support commitment, availability guarantee or future-version entitlement is created by this free beta license.
+
+5. Privacy
+The accompanying PRIVACY.md describes local records, optional network features, diagnostic exports and third-party services. Do not include secrets or private saves in public support reports. A privacy-policy description is not permission to publish someone else's personal information.
+
+6. Warranty and liability
+To the maximum extent allowed by applicable law, AMM is provided AS IS and AS AVAILABLE, without warranties of merchantability, fitness for a particular purpose, noninfringement or uninterrupted/error-free operation. To that extent, Sylvie Abyss is not liable for indirect, incidental, special or consequential loss, loss of data, profit or business arising from use of AMM; aggregate liability under this license is limited to US$100. These exclusions and limits do not apply where prohibited, including any liability that cannot lawfully be excluded or limited. Mandatory consumer rights remain unaffected.
+
+7. Duration and changes
+This grant applies to this distributed version. A future release may offer different terms; a website update alone does not replace the license accompanying your existing copy. You may terminate by stopping use and deleting AMM copies, while retaining your own data. The publisher may terminate this grant for a material breach after written notice and a reasonable opportunity to cure where required by law. Third-party license rights and provisions intended to survive remain effective. If a provision is unenforceable, the remainder applies to the extent lawful.
+
+8. Contact
+Use the publisher's GitHub profile https://github.com/sylvieabyss to locate official AMM support and contact options. Do not post confidential legal, security or privacy information in a public issue. Until a private reporting channel is configured, describe only the need for a private channel, without including sensitive details.

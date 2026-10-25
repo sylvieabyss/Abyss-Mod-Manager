@@ -1,0 +1,17 @@
+{
+  "publisher": "Sylvie Abyss",
+  "proposedRepository": "sylvieabyss/abyss-mod-manager",
+  "tag": "v0.101.0-beta.1",
+  "draft": true,
+  "prerelease": true,
+  "readyToPublish": false,
+  "sourceRepositoryVisibility": "private",
+  "publicRepositoryPurpose": "documentation, downloads and issue tracking only",
+  "gates": [
+    {"id":"component-source-access","status":"open","reason":"Verify fulfillable exact LGPL/MPL/CPL corresponding-source/access obligations, including installer resources."},
+    {"id":"steam-distribution-terms","status":"open","reason":"Confirm applicable Steam/game API permissions for public distribution."},
+    {"id":"publisher-rights-review","status":"open","reason":"Confirm ownership/contribution/art and build-tool rights; review the drafted terms."},
+    {"id":"publication-approval","status":"pending","reason":"Approve the exact documentation and binary manifest after the other gates are resolved."}
+  ],
+  "limitations": ["Unsigned Windows beta", "No new native-game qualification for this candidate"]
+}
